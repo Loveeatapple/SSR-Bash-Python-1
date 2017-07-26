@@ -18,9 +18,10 @@ By 雨落大佬
 - 无法删除最后一名用户（官方限制）
 
 ## 安装 ##
-(请自行修改连接信息)
     wget -N --no-check-certificate https://raw.githubusercontent.com/FunctionClub/SSR-Bash-Python/master/install.sh && bash install.sh
 
 ## 卸载 ##
     wget -N --no-check-certificate https://raw.githubusercontent.com/FunctionClub/SSR-Bash-Python/master/uninstall.sh && bash uninstall.sh
 
+## PS ##
+- 请自行修改安装/卸载链接
